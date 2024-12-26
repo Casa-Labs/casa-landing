@@ -21,6 +21,9 @@ const Footer = () => {
               <li className="underline underline-offset-2">
                 <Link href="/privacy">Privacy Policy</Link>
               </li>
+              <li className="underline underline-offset-2">
+                <Link href="/tnc">Terms & Conditions</Link>
+              </li>
             </ul>
           </div>
         </div>
